@@ -6,7 +6,12 @@ public class TestBowling {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		Frame frameOne = new Frame(5, 2);
+		int score= frameOne.score();
+		assertEquals("", 7, score);
+		
+		
+		 
 	}
 
 }
