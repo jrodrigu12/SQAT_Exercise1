@@ -22,6 +22,8 @@ public class BowlingGame {
 	public void setBonus(int firstThrow, int secondThrow) {
 		// to be implemented
 		if (frames.get(0).isStrike()) {
+		// frames.get(0).getFirstThrow() + frames.get(0).getSecondThrow(); 
+			
 			
 		}
 		if (frames.get(0).isSpare()) {
