@@ -12,9 +12,9 @@ public class BowlingGame {
 	public BowlingGame(){}
 	
 	// adds a frame to the game
-	public void addFrame(Frame Frame){
+	public void addFrame(Frame frame){
 		//to be implemented
-		frames.add(Frame);
+		frames.add(frame);
 		
 	}
 	
