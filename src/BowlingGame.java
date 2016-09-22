@@ -12,9 +12,9 @@ public class BowlingGame {
 	public BowlingGame(){}
 	
 	// adds a frame to the game
-	public void addFrame(Frame frame){
+	public void addFrame(Frame Frame){
 		//to be implemented
-		frames.add(frame);
+		frames.add(Frame);
 		
 	}
 	
@@ -26,6 +26,8 @@ public class BowlingGame {
 	// Returns the game score
 	public int score(){
 		//to be implemented: should return game score 
+		
+		
 		return 0;
 	}
 }
