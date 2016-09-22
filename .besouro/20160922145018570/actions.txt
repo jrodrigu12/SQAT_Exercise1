@@ -22,3 +22,13 @@ UnitTestSessionAction 1474548324983 TestBowling.java OK
 EditAction 1474548380981 BowlingGame.java 786 4 4 0
 EditAction 1474548711097 BowlingGame.java 866 4 6 0
 EditAction 1474549474645 BowlingGame.java 942 4 6 0
+FileOpenedAction 1474549878853 Board.java 315 2 2 0
+RefactoringAction 1474550702570 BowlingGame.java REMOVE bonus FIELD
+RefactoringAction 1474550774174 BowlingGame.java ADD Frame bonus FIELD
+CompilationAction 1474552257115 BowlingGame.java
+CompilationAction 1474552257117 BowlingGame.java
+CompilationAction 1474552257118 BowlingGame.java
+CompilationAction 1474552257120 BowlingGame.java
+CompilationAction 1474552257121 BowlingGame.java
+CompilationAction 1474552257122 BowlingGame.java
+CompilationAction 1474552257123 BowlingGame.java
